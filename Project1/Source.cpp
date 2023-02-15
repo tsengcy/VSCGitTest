@@ -7,5 +7,5 @@ int main()
 	cout << "Hello world" << endl;
 	cout << "second line" << endl;
 	cout << "a" << endl;
-	cout << "hi" << endl;
+	cout << "add m2 branch" << endl;
 }
